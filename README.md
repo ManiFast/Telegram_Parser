@@ -16,13 +16,6 @@ pip install -r requirements.txt  # No extra requirements needed beyond standard 
 3. The output TXT will contain message IDs and their plain text content.
 
 ## Example Output
-2: ёу
-4: Wake up Mani ...
-The Matrix has you
-Follow the white rabbit ...
-Knock knock.
-
-Сверкающие буквы на экране монитора оказались для меня реальным открытием. ...
-
-## License
-MIT License
+1: Test 1
+2: смс 2
+3: Message 3
